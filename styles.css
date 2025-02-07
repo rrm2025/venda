@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    cursor: default; /* Adicionado para remover a "mãozinha" em todo o body */
+}
+
+.banner {
+    width: 100%;
+    overflow: hidden;
+}
+
+.banner img {
+    width: 100%;
+    display: block;
+    cursor: default; /* Adicionado para remover a "mãozinha" nas imagens do banner */
+}
+
+.content img {
+    width: 100%;
+    display: block;
+    cursor: default; /* Adicionado para remover a "mãozinha" nas imagens do conteúdo */
+}
